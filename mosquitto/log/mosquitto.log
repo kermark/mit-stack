@@ -1,0 +1,262 @@
+1682875613: mosquitto version 2.0.15 starting
+1682875613: Config loaded from /mosquitto/config/mosquitto.conf.
+1682875613: Opening ipv4 listen socket on port 1883.
+1682875613: Opening ipv6 listen socket on port 1883.
+1682875613: mosquitto version 2.0.15 running
+1682875818: mosquitto version 2.0.15 terminating
+1682875818: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682875835: mosquitto version 2.0.15 starting
+1682875835: Config loaded from /mosquitto/config/mosquitto.conf.
+1682875835: Opening ipv4 listen socket on port 1883.
+1682875835: Opening ipv6 listen socket on port 1883.
+1682875835: mosquitto version 2.0.15 running
+1682876147: mosquitto version 2.0.15 terminating
+1682876147: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682876161: mosquitto version 2.0.15 starting
+1682876161: Config loaded from /mosquitto/config/mosquitto.conf.
+1682876161: Opening ipv4 listen socket on port 1883.
+1682876161: Opening ipv6 listen socket on port 1883.
+1682876161: mosquitto version 2.0.15 running
+1682876373: mosquitto version 2.0.15 terminating
+1682876373: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682876380: mosquitto version 2.0.15 starting
+1682876380: Config loaded from /mosquitto/config/mosquitto.conf.
+1682876380: Opening ipv4 listen socket on port 1883.
+1682876380: Opening ipv6 listen socket on port 1883.
+1682876380: mosquitto version 2.0.15 running
+1682876404: mosquitto version 2.0.15 terminating
+1682876404: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682876445: mosquitto version 2.0.15 starting
+1682876445: Config loaded from /mosquitto/config/mosquitto.conf.
+1682876445: Opening ipv4 listen socket on port 1883.
+1682876445: Opening ipv6 listen socket on port 1883.
+1682876445: mosquitto version 2.0.15 running
+1682876449: mosquitto version 2.0.15 terminating
+1682876449: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682876645: mosquitto version 2.0.15 starting
+1682876645: Config loaded from /mosquitto/config/mosquitto.conf.
+1682876645: Opening ipv4 listen socket on port 1883.
+1682876645: Opening ipv6 listen socket on port 1883.
+1682876645: mosquitto version 2.0.15 running
+1682876646: New connection from 172.20.0.4:53110 on port 1883.
+1682876646: New client connected from 172.20.0.4:53110 as Telegraf-Consumer-szAkP (p2, c1, k60).
+1682876759: Client Telegraf-Consumer-szAkP disconnected.
+1682876759: mosquitto version 2.0.15 terminating
+1682876759: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682876779: mosquitto version 2.0.15 starting
+1682876779: Config loaded from /mosquitto/config/mosquitto.conf.
+1682876779: Opening ipv4 listen socket on port 1883.
+1682876779: Opening ipv6 listen socket on port 1883.
+1682876779: mosquitto version 2.0.15 running
+1682876779: New connection from 172.21.0.4:46792 on port 1883.
+1682876779: New client connected from 172.21.0.4:46792 as Telegraf-Consumer-tA5WI (p2, c1, k60).
+1682876851: New connection from 172.21.0.1:41906 on port 1883.
+1682876851: New client connected from 172.21.0.1:41906 as python-mqtt-728 (p2, c1, k60).
+1682877027: Client python-mqtt-728 closed its connection.
+1682877069: Client Telegraf-Consumer-tA5WI disconnected.
+1682877069: mosquitto version 2.0.15 terminating
+1682877069: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682877087: mosquitto version 2.0.15 starting
+1682877087: Config loaded from /mosquitto/config/mosquitto.conf.
+1682877087: Opening ipv4 listen socket on port 1883.
+1682877087: Opening ipv6 listen socket on port 1883.
+1682877087: mosquitto version 2.0.15 running
+1682877088: New connection from 172.22.0.4:59130 on port 1883.
+1682877088: New client connected from 172.22.0.4:59130 as Telegraf-Consumer-PXGCo (p2, c1, k60).
+1682877094: New connection from 172.22.0.1:57332 on port 1883.
+1682877094: New client connected from 172.22.0.1:57332 as python-mqtt-20 (p2, c1, k60).
+1682877207: Client python-mqtt-20 closed its connection.
+1682877398: Client Telegraf-Consumer-PXGCo disconnected.
+1682877398: mosquitto version 2.0.15 terminating
+1682877398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682877403: mosquitto version 2.0.15 starting
+1682877403: Config loaded from /mosquitto/config/mosquitto.conf.
+1682877403: Opening ipv4 listen socket on port 1883.
+1682877403: Opening ipv6 listen socket on port 1883.
+1682877403: mosquitto version 2.0.15 running
+1682877404: New connection from 172.23.0.4:44444 on port 1883.
+1682877404: New client connected from 172.23.0.4:44444 as Telegraf-Consumer-m7xRl (p2, c1, k60).
+1682877409: Client Telegraf-Consumer-m7xRl disconnected.
+1682877409: mosquitto version 2.0.15 terminating
+1682877409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682877418: mosquitto version 2.0.15 starting
+1682877418: Config loaded from /mosquitto/config/mosquitto.conf.
+1682877418: Opening ipv4 listen socket on port 1883.
+1682877418: Opening ipv6 listen socket on port 1883.
+1682877418: mosquitto version 2.0.15 running
+1682877419: New connection from 172.24.0.4:55980 on port 1883.
+1682877419: New client connected from 172.24.0.4:55980 as Telegraf-Consumer-PaiKi (p2, c1, k60).
+1682877904: Client Telegraf-Consumer-PaiKi disconnected.
+1682877904: mosquitto version 2.0.15 terminating
+1682877904: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682877930: mosquitto version 2.0.15 starting
+1682877930: Config loaded from /mosquitto/config/mosquitto.conf.
+1682877930: Opening ipv4 listen socket on port 1883.
+1682877930: Opening ipv6 listen socket on port 1883.
+1682877930: mosquitto version 2.0.15 running
+1682877931: New connection from 172.25.0.4:38800 on port 1883.
+1682877931: New client connected from 172.25.0.4:38800 as Telegraf-Consumer-hTjB0 (p2, c1, k60).
+1682878968: Client Telegraf-Consumer-hTjB0 disconnected.
+1682878968: mosquitto version 2.0.15 terminating
+1682878968: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682878988: mosquitto version 2.0.15 starting
+1682878988: Config loaded from /mosquitto/config/mosquitto.conf.
+1682878988: Opening ipv4 listen socket on port 1883.
+1682878988: Opening ipv6 listen socket on port 1883.
+1682878988: mosquitto version 2.0.15 running
+1682878989: New connection from 172.26.0.5:52372 on port 1883.
+1682878989: New client connected from 172.26.0.5:52372 as Telegraf-Consumer-0iCVn (p2, c1, k60).
+1682879115: Client Telegraf-Consumer-0iCVn disconnected.
+1682879115: mosquitto version 2.0.15 terminating
+1682879115: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1682879128: mosquitto version 2.0.15 starting
+1682879128: Config loaded from /mosquitto/config/mosquitto.conf.
+1682879128: Opening ipv4 listen socket on port 1883.
+1682879128: Opening ipv6 listen socket on port 1883.
+1682879128: mosquitto version 2.0.15 running
+1682879129: New connection from 172.27.0.5:46560 on port 1883.
+1682879129: New client connected from 172.27.0.5:46560 as Telegraf-Consumer-PCEfN (p2, c1, k60).
+1682879258: Client Telegraf-Consumer-PCEfN disconnected.
+1682879258: mosquitto version 2.0.15 terminating
+1682879258: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683014533: mosquitto version 2.0.15 starting
+1683014533: Config loaded from /mosquitto/config/mosquitto.conf.
+1683014533: Opening ipv4 listen socket on port 1883.
+1683014533: Opening ipv6 listen socket on port 1883.
+1683014533: mosquitto version 2.0.15 running
+1683014729: mosquitto version 2.0.15 terminating
+1683014729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683014788: mosquitto version 2.0.15 starting
+1683014788: Config loaded from /mosquitto/config/mosquitto.conf.
+1683014788: Opening ipv4 listen socket on port 1883.
+1683014788: Opening ipv6 listen socket on port 1883.
+1683014788: mosquitto version 2.0.15 running
+1683014943: mosquitto version 2.0.15 terminating
+1683014943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683014955: mosquitto version 2.0.15 starting
+1683014955: Config loaded from /mosquitto/config/mosquitto.conf.
+1683014955: Opening ipv4 listen socket on port 1883.
+1683014955: Opening ipv6 listen socket on port 1883.
+1683014955: mosquitto version 2.0.15 running
+1683014955: mosquitto version 2.0.15 terminating
+1683014955: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683014961: mosquitto version 2.0.15 starting
+1683014961: Config loaded from /mosquitto/config/mosquitto.conf.
+1683014961: Opening ipv4 listen socket on port 1883.
+1683014961: Opening ipv6 listen socket on port 1883.
+1683014961: mosquitto version 2.0.15 running
+1683014986: mosquitto version 2.0.15 terminating
+1683014986: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683014997: mosquitto version 2.0.15 starting
+1683014997: Config loaded from /mosquitto/config/mosquitto.conf.
+1683014997: Opening ipv4 listen socket on port 1883.
+1683014997: Opening ipv6 listen socket on port 1883.
+1683014997: mosquitto version 2.0.15 running
+1683014998: New connection from 192.168.48.4:41200 on port 1883.
+1683014998: New client connected from 192.168.48.4:41200 as Telegraf-Consumer-DPOWi (p2, c1, k60).
+1683015050: New connection from 192.168.48.1:33182 on port 1883.
+1683015050: New client connected from 192.168.48.1:33182 as python-mqtt-709 (p2, c1, k60).
+1683015225: Client python-mqtt-709 closed its connection.
+1683015262: Client Telegraf-Consumer-DPOWi disconnected.
+1683015263: mosquitto version 2.0.15 terminating
+1683015263: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683015273: mosquitto version 2.0.15 starting
+1683015273: Config loaded from /mosquitto/config/mosquitto.conf.
+1683015273: Opening ipv4 listen socket on port 1883.
+1683015273: Opening ipv6 listen socket on port 1883.
+1683015273: mosquitto version 2.0.15 running
+1683015274: New connection from 192.168.80.4:59120 on port 1883.
+1683015274: New client connected from 192.168.80.4:59120 as Telegraf-Consumer-H5HpP (p2, c1, k60).
+1683015295: New connection from 192.168.80.1:56008 on port 1883.
+1683015295: New client connected from 192.168.80.1:56008 as python-mqtt-738 (p2, c1, k60).
+1683016557: Client Telegraf-Consumer-H5HpP disconnected.
+1683016557: mosquitto version 2.0.15 terminating
+1683016557: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683016569: mosquitto version 2.0.15 starting
+1683016569: Config loaded from /mosquitto/config/mosquitto.conf.
+1683016569: Opening ipv4 listen socket on port 1883.
+1683016569: Opening ipv6 listen socket on port 1883.
+1683016569: mosquitto version 2.0.15 running
+1683016570: New connection from 192.168.80.4:55890 on port 1883.
+1683016570: New client connected from 192.168.80.4:55890 as Telegraf-Consumer-5DDpg (p2, c1, k60).
+1683016572: New connection from 192.168.80.1:35032 on port 1883.
+1683016572: New client connected from 192.168.80.1:35032 as python-mqtt-738 (p2, c1, k60).
+1683016725: Client python-mqtt-738 closed its connection.
+1683016784: Client Telegraf-Consumer-5DDpg disconnected.
+1683016784: mosquitto version 2.0.15 terminating
+1683016784: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683016818: mosquitto version 2.0.15 starting
+1683016818: Config loaded from /mosquitto/config/mosquitto.conf.
+1683016818: Opening ipv4 listen socket on port 1883.
+1683016818: Opening ipv6 listen socket on port 1883.
+1683016818: mosquitto version 2.0.15 running
+1683016818: New connection from 192.168.80.4:33434 on port 1883.
+1683016818: New client connected from 192.168.80.4:33434 as Telegraf-Consumer-5Khkt (p2, c1, k60).
+1683016833: New connection from 192.168.80.1:49996 on port 1883.
+1683016833: New client connected from 192.168.80.1:49996 as python-mqtt-198 (p2, c1, k60).
+1683017037: Client python-mqtt-198 closed its connection.
+1683017442: Client Telegraf-Consumer-5Khkt disconnected.
+1683017442: mosquitto version 2.0.15 terminating
+1683017442: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683017458: mosquitto version 2.0.15 starting
+1683017458: Config loaded from /mosquitto/config/mosquitto.conf.
+1683017458: Opening ipv4 listen socket on port 1883.
+1683017458: Opening ipv6 listen socket on port 1883.
+1683017458: mosquitto version 2.0.15 running
+1683017460: New connection from 192.168.96.4:51360 on port 1883.
+1683017460: New client connected from 192.168.96.4:51360 as Telegraf-Consumer-mLubE (p2, c1, k60).
+1683017506: New connection from 192.168.96.1:46108 on port 1883.
+1683017506: New client connected from 192.168.96.1:46108 as python-mqtt-355 (p2, c1, k60).
+1683017772: Client Telegraf-Consumer-mLubE disconnected.
+1683017772: mosquitto version 2.0.15 terminating
+1683017772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683017788: mosquitto version 2.0.15 starting
+1683017788: Config loaded from /mosquitto/config/mosquitto.conf.
+1683017788: Opening ipv4 listen socket on port 1883.
+1683017788: Opening ipv6 listen socket on port 1883.
+1683017788: mosquitto version 2.0.15 running
+1683017796: New connection from 192.168.112.1:45400 on port 1883.
+1683017796: New client connected from 192.168.112.1:45400 as python-mqtt-355 (p2, c1, k60).
+1683017928: mosquitto version 2.0.15 terminating
+1683017928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683017935: mosquitto version 2.0.15 starting
+1683017935: Config loaded from /mosquitto/config/mosquitto.conf.
+1683017935: Opening ipv4 listen socket on port 1883.
+1683017935: Opening ipv6 listen socket on port 1883.
+1683017935: mosquitto version 2.0.15 running
+1683017936: New connection from 192.168.128.1:58022 on port 1883.
+1683017936: New client connected from 192.168.128.1:58022 as python-mqtt-355 (p2, c1, k60).
+1683017936: New connection from 192.168.128.4:33764 on port 1883.
+1683017936: New client connected from 192.168.128.4:33764 as Telegraf-Consumer-oIOik (p2, c1, k60).
+1683018060: Client Telegraf-Consumer-oIOik disconnected.
+1683018061: New connection from 192.168.128.4:33490 on port 1883.
+1683018061: New client connected from 192.168.128.4:33490 as Telegraf-Consumer-z1zVm (p2, c1, k60).
+1683018303: Client Telegraf-Consumer-z1zVm disconnected.
+1683018304: New connection from 192.168.128.4:47566 on port 1883.
+1683018304: New client connected from 192.168.128.4:47566 as Telegraf-Consumer-5tbD6 (p2, c1, k60).
+1683018343: Client Telegraf-Consumer-5tbD6 disconnected.
+1683018344: New connection from 192.168.128.4:59724 on port 1883.
+1683018344: New client connected from 192.168.128.4:59724 as Telegraf-Consumer-4qWfp (p2, c1, k60).
+1683018692: Client Telegraf-Consumer-4qWfp disconnected.
+1683018693: New connection from 192.168.128.4:40234 on port 1883.
+1683018693: New client connected from 192.168.128.4:40234 as Telegraf-Consumer-qDAei (p2, c1, k60).
+1683019736: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683020337: Client Telegraf-Consumer-qDAei disconnected.
+1683020368: mosquitto version 2.0.15 terminating
+1683020368: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683020375: mosquitto version 2.0.15 starting
+1683020375: Config loaded from /mosquitto/config/mosquitto.conf.
+1683020375: Opening ipv4 listen socket on port 1883.
+1683020375: Opening ipv6 listen socket on port 1883.
+1683020375: mosquitto version 2.0.15 running
+1683020375: New connection from 192.168.144.1:55942 on port 1883.
+1683020375: New client connected from 192.168.144.1:55942 as python-mqtt-355 (p2, c1, k60).
+1683020445: Client python-mqtt-355 closed its connection.
+1683020448: New connection from 192.168.144.1:59056 on port 1883.
+1683020448: New client connected from 192.168.144.1:59056 as python-mqtt-832 (p2, c1, k60).
+1683020544: New connection from 192.168.144.4:43752 on port 1883.
+1683020544: New client connected from 192.168.144.4:43752 as Telegraf-Consumer-97d6y (p2, c1, k60).
+1683020681: Client python-mqtt-832 closed its connection.
+1683020787: Client Telegraf-Consumer-97d6y disconnected.
+1683020792: mosquitto version 2.0.15 terminating
+1683020792: Saving in-memory database to /mosquitto/data//mosquitto.db.
