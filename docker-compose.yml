@@ -28,7 +28,7 @@ services:
     container_name: telegraf
     restart: always
     volumes:
-      - ${TELEGRAF_CFG_PATH}:/etc/telegraf/telegraf.conf:ro
+      - ${TELEGRAF_INIT_CFG_PATH}:/etc/telegraf/telegraf.conf:ro
     env_file:
       - .env
     depends_on:

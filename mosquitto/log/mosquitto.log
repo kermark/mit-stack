@@ -260,3 +260,636 @@
 1683020787: Client Telegraf-Consumer-97d6y disconnected.
 1683020792: mosquitto version 2.0.15 terminating
 1683020792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683115458: mosquitto version 2.0.15 starting
+1683115458: Config loaded from /mosquitto/config/mosquitto.conf.
+1683115458: Opening ipv4 listen socket on port 1883.
+1683115458: Opening ipv6 listen socket on port 1883.
+1683115458: mosquitto version 2.0.15 running
+1683115530: New connection from 192.168.160.1:43678 on port 1883.
+1683115530: New client connected from 192.168.160.1:43678 as python-mqtt-801 (p2, c1, k60).
+1683116485: mosquitto version 2.0.15 terminating
+1683116485: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683128779: mosquitto version 2.0.15 starting
+1683128779: Config loaded from /mosquitto/config/mosquitto.conf.
+1683128779: Opening ipv4 listen socket on port 1883.
+1683128779: Opening ipv6 listen socket on port 1883.
+1683128779: mosquitto version 2.0.15 running
+1683128783: New connection from 192.168.176.1:58112 on port 1883.
+1683128783: New client connected from 192.168.176.1:58112 as python-mqtt-599 (p2, c1, k60).
+1683129249: New connection from 192.168.176.4:59056 on port 1883.
+1683129249: New client connected from 192.168.176.4:59056 as Telegraf-Consumer-jQGK4 (p2, c1, k60).
+1683129276: Client python-mqtt-599 closed its connection.
+1683129277: New connection from 192.168.176.1:47570 on port 1883.
+1683129277: New client connected from 192.168.176.1:47570 as python-mqtt-637 (p2, c1, k60).
+1683129329: Client Telegraf-Consumer-jQGK4 disconnected.
+1683195829: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683195829: Client python-mqtt-637 has exceeded timeout, disconnecting.
+1683195829: New connection from 192.168.176.1:34684 on port 1883.
+1683195829: New connection from 192.168.176.1:34702 on port 1883.
+1683195829: New connection from 192.168.176.1:34690 on port 1883.
+1683195829: New connection from 192.168.176.1:34712 on port 1883.
+1683195829: New connection from 192.168.176.1:34722 on port 1883.
+1683195829: New connection from 192.168.176.1:34734 on port 1883.
+1683195829: New connection from 192.168.176.1:34748 on port 1883.
+1683195829: New connection from 192.168.176.1:34758 on port 1883.
+1683195829: New connection from 192.168.176.1:34766 on port 1883.
+1683195829: New connection from 192.168.176.1:34778 on port 1883.
+1683195829: New connection from 192.168.176.1:34786 on port 1883.
+1683195829: New connection from 192.168.176.1:34800 on port 1883.
+1683195829: New connection from 192.168.176.1:34812 on port 1883.
+1683195829: New connection from 192.168.176.1:34824 on port 1883.
+1683195829: New connection from 192.168.176.1:34834 on port 1883.
+1683195829: New connection from 192.168.176.1:34844 on port 1883.
+1683195829: New connection from 192.168.176.1:34846 on port 1883.
+1683195829: New connection from 192.168.176.1:34858 on port 1883.
+1683195829: New connection from 192.168.176.1:34864 on port 1883.
+1683195829: New connection from 192.168.176.1:34868 on port 1883.
+1683195829: New connection from 192.168.176.1:34872 on port 1883.
+1683195829: New connection from 192.168.176.1:34874 on port 1883.
+1683195829: New connection from 192.168.176.1:34882 on port 1883.
+1683195829: New connection from 192.168.176.1:34888 on port 1883.
+1683195829: New connection from 192.168.176.1:34894 on port 1883.
+1683195829: New connection from 192.168.176.1:34902 on port 1883.
+1683195829: New connection from 192.168.176.1:34906 on port 1883.
+1683195829: New connection from 192.168.176.1:34910 on port 1883.
+1683195829: New connection from 192.168.176.1:34918 on port 1883.
+1683195829: New connection from 192.168.176.1:34922 on port 1883.
+1683195829: New connection from 192.168.176.1:34934 on port 1883.
+1683195829: New connection from 192.168.176.1:34938 on port 1883.
+1683195829: New connection from 192.168.176.1:34942 on port 1883.
+1683195829: New connection from 192.168.176.1:34958 on port 1883.
+1683195829: New connection from 192.168.176.1:34960 on port 1883.
+1683195829: New connection from 192.168.176.1:34964 on port 1883.
+1683195829: New connection from 192.168.176.1:34966 on port 1883.
+1683195829: New connection from 192.168.176.1:34986 on port 1883.
+1683195829: New connection from 192.168.176.1:34988 on port 1883.
+1683195829: New connection from 192.168.176.1:35004 on port 1883.
+1683195829: New connection from 192.168.176.1:35006 on port 1883.
+1683195829: New connection from 192.168.176.1:35014 on port 1883.
+1683195829: New connection from 192.168.176.1:35016 on port 1883.
+1683195829: New connection from 192.168.176.1:34972 on port 1883.
+1683195829: New connection from 192.168.176.1:35024 on port 1883.
+1683195829: New connection from 192.168.176.1:35046 on port 1883.
+1683195829: New connection from 192.168.176.1:35036 on port 1883.
+1683195829: New connection from 192.168.176.1:35060 on port 1883.
+1683195829: New connection from 192.168.176.1:35062 on port 1883.
+1683195829: New connection from 192.168.176.1:35078 on port 1883.
+1683195829: New connection from 192.168.176.1:35094 on port 1883.
+1683195829: New connection from 192.168.176.1:35092 on port 1883.
+1683195829: New connection from 192.168.176.1:35096 on port 1883.
+1683195829: New connection from 192.168.176.1:35104 on port 1883.
+1683195829: New connection from 192.168.176.1:35114 on port 1883.
+1683195829: New connection from 192.168.176.1:35118 on port 1883.
+1683195829: New connection from 192.168.176.1:35120 on port 1883.
+1683195829: New connection from 192.168.176.1:35134 on port 1883.
+1683195829: New connection from 192.168.176.1:35146 on port 1883.
+1683195829: New connection from 192.168.176.1:35158 on port 1883.
+1683195829: New connection from 192.168.176.1:35184 on port 1883.
+1683195829: New connection from 192.168.176.1:35172 on port 1883.
+1683195829: New connection from 192.168.176.1:35194 on port 1883.
+1683195829: New connection from 192.168.176.1:35188 on port 1883.
+1683195829: New connection from 192.168.176.1:35206 on port 1883.
+1683195829: New connection from 192.168.176.1:35220 on port 1883.
+1683195829: New connection from 192.168.176.1:35226 on port 1883.
+1683195829: New connection from 192.168.176.1:35232 on port 1883.
+1683195829: New connection from 192.168.176.1:35244 on port 1883.
+1683195829: New connection from 192.168.176.1:35246 on port 1883.
+1683195829: New connection from 192.168.176.1:35252 on port 1883.
+1683195829: New connection from 192.168.176.1:35268 on port 1883.
+1683195829: New connection from 192.168.176.1:35284 on port 1883.
+1683195829: New connection from 192.168.176.1:35296 on port 1883.
+1683195829: New client connected from 192.168.176.1:34702 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34690 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34712 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34722 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34734 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34748 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34758 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34766 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34786 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34778 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34800 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34684 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34812 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34824 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34834 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34844 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34846 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34858 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34864 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34868 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34872 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34874 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34882 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34888 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34894 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34902 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34906 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34910 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34918 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34922 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34934 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34938 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34942 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34958 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34960 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34964 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34966 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34986 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34988 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35004 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35006 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35014 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35016 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:34972 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35024 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35046 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35036 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35060 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35062 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35078 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35094 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35092 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35096 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35104 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35114 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35118 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35120 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35134 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35146 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35158 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35184 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35172 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35194 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35188 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35206 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35220 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35226 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35232 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35244 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35246 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35252 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35268 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35284 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 already connected, closing old connection.
+1683195829: New client connected from 192.168.176.1:35296 as python-mqtt-637 (p2, c1, k60).
+1683195829: Client python-mqtt-637 closed its connection.
+1683195831: New connection from 192.168.176.4:58902 on port 1883.
+1683195831: New client connected from 192.168.176.4:58902 as Telegraf-Consumer-yx3Cr (p2, c1, k60).
+1683195846: New connection from 192.168.176.1:55820 on port 1883.
+1683195846: New client connected from 192.168.176.1:55820 as python-mqtt-880 (p2, c1, k60).
+1683196495: Client Telegraf-Consumer-yx3Cr disconnected.
+1683196495: mosquitto version 2.0.15 terminating
+1683196495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683210665: mosquitto version 2.0.15 starting
+1683210665: Config loaded from /mosquitto/config/mosquitto.conf.
+1683210665: Opening ipv4 listen socket on port 1883.
+1683210665: Opening ipv6 listen socket on port 1883.
+1683210665: mosquitto version 2.0.15 running
+1683210667: New connection from 192.168.192.4:52930 on port 1883.
+1683210667: New client connected from 192.168.192.4:52930 as Telegraf-Consumer-eZ9Tj (p2, c1, k60).
+1683210780: New connection from 192.168.192.1:42122 on port 1883.
+1683210780: New client connected from 192.168.192.1:42122 as python-mqtt-880 (p2, c1, k60).
+1683211330: Client python-mqtt-880 closed its connection.
+1683212466: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683212766: Client Telegraf-Consumer-eZ9Tj disconnected.
+1683212766: mosquitto version 2.0.15 terminating
+1683212766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683212768: mosquitto version 2.0.15 starting
+1683212768: Config loaded from /mosquitto/config/mosquitto.conf.
+1683212768: Opening ipv4 listen socket on port 1883.
+1683212768: Opening ipv6 listen socket on port 1883.
+1683212768: mosquitto version 2.0.15 running
+1683212768: New connection from 192.168.192.4:51874 on port 1883.
+1683212768: New client connected from 192.168.192.4:51874 as Telegraf-Consumer-svzey (p2, c1, k60).
+1683213127: Client Telegraf-Consumer-svzey disconnected.
+1683213128: New connection from 192.168.192.4:57966 on port 1883.
+1683213128: New client connected from 192.168.192.4:57966 as Telegraf-Consumer-CLigd (p2, c1, k60).
+1683213152: Client Telegraf-Consumer-CLigd disconnected.
+1683213153: New connection from 192.168.192.4:51438 on port 1883.
+1683213153: New client connected from 192.168.192.4:51438 as Telegraf-Consumer-MeimU (p2, c1, k60).
+1683213191: Client Telegraf-Consumer-MeimU disconnected.
+1683213192: New connection from 192.168.192.4:59856 on port 1883.
+1683213192: New client connected from 192.168.192.4:59856 as Telegraf-Consumer-aFGBG (p2, c1, k60).
+1683213271: Client Telegraf-Consumer-aFGBG disconnected.
+1683213294: New connection from 192.168.192.4:36444 on port 1883.
+1683213294: New client connected from 192.168.192.4:36444 as Telegraf-Consumer-5SQcR (p2, c1, k60).
+1683213879: Client Telegraf-Consumer-5SQcR disconnected.
+1683213884: mosquitto version 2.0.15 terminating
+1683213884: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683213895: mosquitto version 2.0.15 starting
+1683213895: Config loaded from /mosquitto/config/mosquitto.conf.
+1683213895: Opening ipv4 listen socket on port 1883.
+1683213895: Opening ipv6 listen socket on port 1883.
+1683213895: mosquitto version 2.0.15 running
+1683214438: mosquitto version 2.0.15 terminating
+1683214438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683214477: mosquitto version 2.0.15 starting
+1683214477: Config loaded from /mosquitto/config/mosquitto.conf.
+1683214477: Opening ipv4 listen socket on port 1883.
+1683214477: Opening ipv6 listen socket on port 1883.
+1683214477: mosquitto version 2.0.15 running
+1683214478: New connection from 192.168.224.4:53100 on port 1883.
+1683214478: New client connected from 192.168.224.4:53100 as Telegraf-Consumer-xnPJK (p2, c1, k60).
+1683214795: New connection from 192.168.224.4:59040 on port 1883.
+1683214795: New client connected from 192.168.224.4:59040 as Telegraf-Consumer-ar6Jo (p2, c1, k60).
+1683214921: Client Telegraf-Consumer-xnPJK disconnected.
+1683214921: Client Telegraf-Consumer-ar6Jo closed its connection.
+1683214921: New connection from 192.168.224.4:33144 on port 1883.
+1683214921: New client connected from 192.168.224.4:33144 as Telegraf-Consumer-iIDpa (p2, c1, k60).
+1683215013: Client Telegraf-Consumer-iIDpa disconnected.
+1683215013: mosquitto version 2.0.15 terminating
+1683215013: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683215024: mosquitto version 2.0.15 starting
+1683215024: Config loaded from /mosquitto/config/mosquitto.conf.
+1683215024: Opening ipv4 listen socket on port 1883.
+1683215024: Opening ipv6 listen socket on port 1883.
+1683215024: mosquitto version 2.0.15 running
+1683215191: mosquitto version 2.0.15 terminating
+1683215191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683215493: mosquitto version 2.0.15 starting
+1683215493: Config loaded from /mosquitto/config/mosquitto.conf.
+1683215493: Opening ipv4 listen socket on port 1883.
+1683215493: Opening ipv6 listen socket on port 1883.
+1683215493: mosquitto version 2.0.15 running
+1683215494: New connection from 172.18.0.4:38598 on port 1883.
+1683215494: New client connected from 172.18.0.4:38598 as Telegraf-Consumer-2nq3G (p2, c1, k60).
+1683215587: New connection from 172.18.0.4:52928 on port 1883.
+1683215587: New client connected from 172.18.0.4:52928 as Telegraf-Consumer-c68Z9 (p2, c1, k60).
+1683215614: Client Telegraf-Consumer-2nq3G disconnected.
+1683215614: Client Telegraf-Consumer-c68Z9 closed its connection.
+1683215614: New connection from 172.18.0.4:40792 on port 1883.
+1683215614: New client connected from 172.18.0.4:40792 as Telegraf-Consumer-16z3x (p2, c1, k60).
+1683215624: New connection from 172.18.0.1:48594 on port 1883.
+1683215624: New client connected from 172.18.0.1:48594 as python-mqtt-111 (p2, c1, k60).
+1683215708: New connection from 172.18.0.4:44234 on port 1883.
+1683215708: New client connected from 172.18.0.4:44234 as Telegraf-Consumer-XPSXn (p2, c1, k60).
+1683215823: Client Telegraf-Consumer-16z3x disconnected.
+1683215823: mosquitto version 2.0.15 terminating
+1683215823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683215856: mosquitto version 2.0.15 starting
+1683215856: Config loaded from /mosquitto/config/mosquitto.conf.
+1683215856: Opening ipv4 listen socket on port 1883.
+1683215856: Opening ipv6 listen socket on port 1883.
+1683215856: mosquitto version 2.0.15 running
+1683215857: New connection from 172.19.0.4:43204 on port 1883.
+1683215857: New client connected from 172.19.0.4:43204 as Telegraf-Consumer-01SA4 (p2, c1, k60).
+1683215870: New connection from 172.19.0.1:48976 on port 1883.
+1683215870: New client connected from 172.19.0.1:48976 as python-mqtt-111 (p2, c1, k60).
+1683216185: Client Telegraf-Consumer-01SA4 disconnected.
+1683216185: mosquitto version 2.0.15 terminating
+1683216185: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683216212: mosquitto version 2.0.15 starting
+1683216212: Config loaded from /mosquitto/config/mosquitto.conf.
+1683216212: Opening ipv4 listen socket on port 1883.
+1683216212: Opening ipv6 listen socket on port 1883.
+1683216212: mosquitto version 2.0.15 running
+1683216212: New connection from 172.20.0.1:39592 on port 1883.
+1683216212: New client connected from 172.20.0.1:39592 as python-mqtt-111 (p2, c1, k60).
+1683216213: New connection from 172.20.0.4:49206 on port 1883.
+1683216213: New client connected from 172.20.0.4:49206 as Telegraf-Consumer-XZERz (p2, c1, k60).
+1683216665: Client Telegraf-Consumer-XZERz disconnected.
+1683216665: mosquitto version 2.0.15 terminating
+1683216665: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683216676: mosquitto version 2.0.15 starting
+1683216676: Config loaded from /mosquitto/config/mosquitto.conf.
+1683216676: Opening ipv4 listen socket on port 1883.
+1683216676: Opening ipv6 listen socket on port 1883.
+1683216676: mosquitto version 2.0.15 running
+1683216676: New connection from 172.21.0.1:44594 on port 1883.
+1683216676: New client connected from 172.21.0.1:44594 as python-mqtt-111 (p2, c1, k60).
+1683216676: New connection from 172.21.0.4:35166 on port 1883.
+1683216676: New client connected from 172.21.0.4:35166 as Telegraf-Consumer-TFefc (p2, c1, k60).
+1683216726: New connection from 172.21.0.4:38834 on port 1883.
+1683216726: New client connected from 172.21.0.4:38834 as Telegraf-Consumer-0HT7B (p2, c1, k60).
+1683216932: Client Telegraf-Consumer-TFefc disconnected.
+1683216932: Client Telegraf-Consumer-0HT7B closed its connection.
+1683216933: New connection from 172.21.0.4:55052 on port 1883.
+1683216933: New client connected from 172.21.0.4:55052 as Telegraf-Consumer-HrFQx (p2, c1, k60).
+1683216944: Client Telegraf-Consumer-HrFQx disconnected.
+1683216944: New connection from 172.21.0.4:34204 on port 1883.
+1683216944: New client connected from 172.21.0.4:34204 as Telegraf-Consumer-9FNYs (p2, c1, k60).
+1683216952: New connection from 172.21.0.4:45842 on port 1883.
+1683216952: New client connected from 172.21.0.4:45842 as Telegraf-Consumer-i8MqG (p2, c1, k60).
+1683216965: Client Telegraf-Consumer-9FNYs disconnected.
+1683216965: Client Telegraf-Consumer-i8MqG closed its connection.
+1683216966: New connection from 172.21.0.4:44818 on port 1883.
+1683216966: New client connected from 172.21.0.4:44818 as Telegraf-Consumer-uF4xM (p2, c1, k60).
+1683217089: Client Telegraf-Consumer-uF4xM disconnected.
+1683217089: mosquitto version 2.0.15 terminating
+1683217089: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683284122: mosquitto version 2.0.15 starting
+1683284122: Config loaded from /mosquitto/config/mosquitto.conf.
+1683284122: Opening ipv4 listen socket on port 1883.
+1683284122: Opening ipv6 listen socket on port 1883.
+1683284122: mosquitto version 2.0.15 running
+1683284126: New connection from 172.22.0.4:59894 on port 1883.
+1683284126: New client connected from 172.22.0.4:59894 as Telegraf-Consumer-VlYCW (p2, c1, k60).
+1683284620: Client Telegraf-Consumer-VlYCW disconnected.
+1683284620: mosquitto version 2.0.15 terminating
+1683284620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683284642: mosquitto version 2.0.15 starting
+1683284642: Config loaded from /mosquitto/config/mosquitto.conf.
+1683284642: Opening ipv4 listen socket on port 1883.
+1683284642: Opening ipv6 listen socket on port 1883.
+1683284642: mosquitto version 2.0.15 running
+1683284643: New connection from 172.23.0.4:46234 on port 1883.
+1683284643: New client connected from 172.23.0.4:46234 as Telegraf-Consumer-li7tT (p2, c1, k60).
+1683285156: Client Telegraf-Consumer-li7tT disconnected.
+1683285156: mosquitto version 2.0.15 terminating
+1683285156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683285161: mosquitto version 2.0.15 starting
+1683285161: Config loaded from /mosquitto/config/mosquitto.conf.
+1683285161: Opening ipv4 listen socket on port 1883.
+1683285161: Opening ipv6 listen socket on port 1883.
+1683285161: mosquitto version 2.0.15 running
+1683285161: New connection from 172.23.0.4:45524 on port 1883.
+1683285161: New client connected from 172.23.0.4:45524 as Telegraf-Consumer-Mo6SE (p2, c1, k60).
+1683285407: Client Telegraf-Consumer-Mo6SE disconnected.
+1683285407: mosquitto version 2.0.15 terminating
+1683285407: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683285416: mosquitto version 2.0.15 starting
+1683285416: Config loaded from /mosquitto/config/mosquitto.conf.
+1683285416: Opening ipv4 listen socket on port 1883.
+1683285416: Opening ipv6 listen socket on port 1883.
+1683285416: mosquitto version 2.0.15 running
+1683285417: New connection from 172.24.0.4:33824 on port 1883.
+1683285417: New client connected from 172.24.0.4:33824 as Telegraf-Consumer-XVX6P (p2, c1, k60).
+1683285671: New connection from 172.24.0.4:46994 on port 1883.
+1683285671: New client connected from 172.24.0.4:46994 as Telegraf-Consumer-S07Yp (p2, c1, k60).
+1683285671: New connection from 172.24.0.4:47006 on port 1883.
+1683285671: New client connected from 172.24.0.4:47006 as Telegraf-Consumer-AIBjh (p2, c1, k60).
+1683285717: New connection from 172.24.0.1:47330 on port 1883.
+1683285717: New client connected from 172.24.0.1:47330 as python-mqtt-416 (p2, c1, k60).
+1683285789: Client python-mqtt-416 closed its connection.
+1683285795: New connection from 172.24.0.1:41856 on port 1883.
+1683285795: New client connected from 172.24.0.1:41856 as python-mqtt-810 (p2, c1, k60).
+1683285872: Client python-mqtt-810 closed its connection.
+1683285887: New connection from 172.24.0.1:34724 on port 1883.
+1683285887: New client connected from 172.24.0.1:34724 as python-mqtt-282 (p2, c1, k60).
+1683285892: Client python-mqtt-282 closed its connection.
+1683285971: New connection from 172.24.0.1:40092 on port 1883.
+1683285971: New client connected from 172.24.0.1:40092 as python-mqtt-220 (p2, c1, k60).
+1683285974: Client python-mqtt-220 closed its connection.
+1683286623: New connection from 172.24.0.4:46940 on port 1883.
+1683286623: New client connected from 172.24.0.4:46940 as Telegraf-Consumer-Oi6KW (p2, c1, k60).
+1683286623: New connection from 172.24.0.4:46946 on port 1883.
+1683286623: New client connected from 172.24.0.4:46946 as Telegraf-Consumer-l0gOD (p2, c1, k60).
+1683286635: New connection from 172.24.0.1:46088 on port 1883.
+1683286635: New client connected from 172.24.0.1:46088 as python-mqtt-95 (p2, c1, k60).
+1683286671: Client python-mqtt-95 closed its connection.
+1683287217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683287874: New connection from 172.24.0.4:48306 on port 1883.
+1683287874: New client connected from 172.24.0.4:48306 as Telegraf-Consumer-pUyu1 (p2, c1, k60).
+1683287874: New connection from 172.24.0.4:48318 on port 1883.
+1683287874: New client connected from 172.24.0.4:48318 as Telegraf-Consumer-B27Yn (p2, c1, k60).
+1683287893: Client Telegraf-Consumer-XVX6P disconnected.
+1683287893: Client Telegraf-Consumer-AIBjh closed its connection.
+1683287893: Client Telegraf-Consumer-S07Yp closed its connection.
+1683287893: Client Telegraf-Consumer-B27Yn closed its connection.
+1683287893: Client Telegraf-Consumer-pUyu1 closed its connection.
+1683287893: Client Telegraf-Consumer-l0gOD closed its connection.
+1683287893: Client Telegraf-Consumer-Oi6KW closed its connection.
+1683287894: New connection from 172.24.0.4:43272 on port 1883.
+1683287894: New client connected from 172.24.0.4:43272 as Telegraf-Consumer-TTJP9 (p2, c1, k60).
+1683287917: New connection from 172.24.0.1:52686 on port 1883.
+1683287917: New client connected from 172.24.0.1:52686 as python-mqtt-745 (p2, c1, k60).
+1683287954: Client Telegraf-Consumer-TTJP9 disconnected.
+1683288081: Client python-mqtt-745 closed its connection.
+1683288206: New connection from 172.24.0.4:60220 on port 1883.
+1683288206: New client connected from 172.24.0.4:60220 as Telegraf-Consumer-4wxmS (p2, c1, k60).
+1683288220: New connection from 172.24.0.4:58502 on port 1883.
+1683288220: New client connected from 172.24.0.4:58502 as Telegraf-Consumer-0bPIn (p2, c1, k60).
+1683288220: New connection from 172.24.0.4:58504 on port 1883.
+1683288220: New client connected from 172.24.0.4:58504 as Telegraf-Consumer-sj9pA (p2, c1, k60).
+1683288229: New connection from 172.24.0.1:43756 on port 1883.
+1683288229: New client connected from 172.24.0.1:43756 as python-mqtt-377 (p2, c1, k60).
+1683288257: Client python-mqtt-377 closed its connection.
+1683288274: New connection from 172.24.0.1:41700 on port 1883.
+1683288274: New client connected from 172.24.0.1:41700 as python-mqtt-49 (p2, c1, k60).
+1683288308: Client python-mqtt-49 closed its connection.
+1683288971: New connection from 172.24.0.1:55334 on port 1883.
+1683288971: New client connected from 172.24.0.1:55334 as python-mqtt-929 (p2, c1, k60).
+1683288973: Client python-mqtt-929 closed its connection.
+1683289018: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683290191: New connection from 172.24.0.4:42254 on port 1883.
+1683290191: New client connected from 172.24.0.4:42254 as Telegraf-Consumer-LFnE7 (p2, c1, k60).
+1683290191: New connection from 172.24.0.4:42260 on port 1883.
+1683290191: New client connected from 172.24.0.4:42260 as Telegraf-Consumer-tSx4V (p2, c1, k60).
+1683290212: New connection from 172.24.0.1:38658 on port 1883.
+1683290212: New client connected from 172.24.0.1:38658 as python-mqtt-452 (p2, c1, k60).
+1683290255: Client python-mqtt-452 closed its connection.
+1683290698: New connection from 172.24.0.1:36260 on port 1883.
+1683290698: New client connected from 172.24.0.1:36260 as python-mqtt-911 (p2, c1, k60).
+1683290706: Client python-mqtt-911 closed its connection.
+1683290714: New connection from 172.24.0.1:33094 on port 1883.
+1683290714: New client connected from 172.24.0.1:33094 as python-mqtt-934 (p2, c1, k60).
+1683290716: Client python-mqtt-934 closed its connection.
+1683290769: New connection from 172.24.0.4:54072 on port 1883.
+1683290769: New client connected from 172.24.0.4:54072 as Telegraf-Consumer-umlqT (p2, c1, k60).
+1683290769: New connection from 172.24.0.4:54074 on port 1883.
+1683290769: New client connected from 172.24.0.4:54074 as Telegraf-Consumer-6KcJj (p2, c1, k60).
+1683290786: New connection from 172.24.0.1:35940 on port 1883.
+1683290786: New client connected from 172.24.0.1:35940 as python-mqtt-770 (p2, c1, k60).
+1683290813: Client python-mqtt-770 closed its connection.
+1683290819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683291795: New connection from 172.24.0.4:53006 on port 1883.
+1683291795: New client connected from 172.24.0.4:53006 as Telegraf-Consumer-e70o4 (p2, c1, k60).
+1683291795: New connection from 172.24.0.4:53010 on port 1883.
+1683291795: New client connected from 172.24.0.4:53010 as Telegraf-Consumer-h60qB (p2, c1, k60).
+1683291799: New connection from 172.24.0.1:43040 on port 1883.
+1683291799: New client connected from 172.24.0.1:43040 as python-mqtt-139 (p2, c1, k60).
+1683291898: Client python-mqtt-139 closed its connection.
+1683292069: New connection from 172.24.0.4:58152 on port 1883.
+1683292069: New client connected from 172.24.0.4:58152 as Telegraf-Consumer-PArAw (p2, c1, k60).
+1683292069: New connection from 172.24.0.4:58158 on port 1883.
+1683292069: New client connected from 172.24.0.4:58158 as Telegraf-Consumer-BqDZX (p2, c1, k60).
+1683292073: New connection from 172.24.0.1:35972 on port 1883.
+1683292073: New client connected from 172.24.0.1:35972 as python-mqtt-656 (p2, c1, k60).
+1683292144: Client python-mqtt-656 closed its connection.
+1683292258: New connection from 172.24.0.4:34636 on port 1883.
+1683292258: New client connected from 172.24.0.4:34636 as Telegraf-Consumer-F5ZgC (p2, c1, k60).
+1683292258: New connection from 172.24.0.4:34650 on port 1883.
+1683292258: New client connected from 172.24.0.4:34650 as Telegraf-Consumer-Mbg0U (p2, c1, k60).
+1683292262: New connection from 172.24.0.1:45472 on port 1883.
+1683292262: New client connected from 172.24.0.1:45472 as python-mqtt-902 (p2, c1, k60).
+1683292321: Client python-mqtt-902 closed its connection.
+1683292620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683293477: New connection from 172.24.0.4:40978 on port 1883.
+1683293477: New client connected from 172.24.0.4:40978 as Telegraf-Consumer-bDLcy (p2, c1, k60).
+1683293477: New connection from 172.24.0.4:40992 on port 1883.
+1683293477: New client connected from 172.24.0.4:40992 as Telegraf-Consumer-3Dl2Q (p2, c1, k60).
+1683293485: Client Telegraf-Consumer-4wxmS disconnected.
+1683293485: Client Telegraf-Consumer-Mbg0U closed its connection.
+1683293485: Client Telegraf-Consumer-F5ZgC closed its connection.
+1683293485: Client Telegraf-Consumer-BqDZX closed its connection.
+1683293485: Client Telegraf-Consumer-PArAw closed its connection.
+1683293485: Client Telegraf-Consumer-3Dl2Q closed its connection.
+1683293485: Client Telegraf-Consumer-bDLcy closed its connection.
+1683293485: Client Telegraf-Consumer-h60qB closed its connection.
+1683293485: Client Telegraf-Consumer-e70o4 closed its connection.
+1683293485: Client Telegraf-Consumer-6KcJj closed its connection.
+1683293485: Client Telegraf-Consumer-umlqT closed its connection.
+1683293485: Client Telegraf-Consumer-sj9pA closed its connection.
+1683293485: Client Telegraf-Consumer-0bPIn closed its connection.
+1683293485: Client Telegraf-Consumer-tSx4V closed its connection.
+1683293485: Client Telegraf-Consumer-LFnE7 closed its connection.
+1683293486: New connection from 172.24.0.4:36266 on port 1883.
+1683293486: New client connected from 172.24.0.4:36266 as Telegraf-Consumer-Ga5Tx (p2, c1, k60).
+1683293490: New connection from 172.24.0.1:51316 on port 1883.
+1683293490: New client connected from 172.24.0.1:51316 as python-mqtt-193 (p2, c1, k60).
+1683293513: Client python-mqtt-193 closed its connection.
+1683294421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683294482: New connection from 172.24.0.4:45932 on port 1883.
+1683294482: New client connected from 172.24.0.4:45932 as Telegraf-Consumer-daWlN (p2, c1, k60).
+1683294482: New connection from 172.24.0.4:45934 on port 1883.
+1683294482: New client connected from 172.24.0.4:45934 as Telegraf-Consumer-GU3pl (p2, c1, k60).
+1683294489: New connection from 172.24.0.1:46328 on port 1883.
+1683294489: New client connected from 172.24.0.1:46328 as python-mqtt-861 (p2, c1, k60).
+1683294518: Client python-mqtt-861 closed its connection.
+1683294858: New connection from 172.24.0.4:34718 on port 1883.
+1683294858: New client connected from 172.24.0.4:34718 as Telegraf-Consumer-jyDMd (p2, c1, k60).
+1683294858: New connection from 172.24.0.4:34730 on port 1883.
+1683294858: New client connected from 172.24.0.4:34730 as Telegraf-Consumer-1Nhuw (p2, c1, k60).
+1683294861: New connection from 172.24.0.1:56964 on port 1883.
+1683294861: New client connected from 172.24.0.1:56964 as python-mqtt-847 (p2, c1, k60).
+1683294889: Client python-mqtt-847 closed its connection.
+1683296013: New connection from 172.24.0.4:53818 on port 1883.
+1683296013: New client connected from 172.24.0.4:53818 as Telegraf-Consumer-qOWA3 (p2, c1, k60).
+1683296013: New connection from 172.24.0.4:53826 on port 1883.
+1683296013: New client connected from 172.24.0.4:53826 as Telegraf-Consumer-wxAlD (p2, c1, k60).
+1683296222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683296497: New connection from 172.24.0.1:42660 on port 1883.
+1683296497: New client connected from 172.24.0.1:42660 as python-mqtt-228 (p2, c1, k60).
+1683296536: Client python-mqtt-228 closed its connection.
+1683296706: New connection from 172.24.0.4:46652 on port 1883.
+1683296706: New client connected from 172.24.0.4:46652 as Telegraf-Consumer-vO9j4 (p2, c1, k60).
+1683296706: New connection from 172.24.0.4:46666 on port 1883.
+1683296706: New client connected from 172.24.0.4:46666 as Telegraf-Consumer-29QHp (p2, c1, k60).
+1683296709: New connection from 172.24.0.1:56964 on port 1883.
+1683296709: New client connected from 172.24.0.1:56964 as python-mqtt-522 (p2, c1, k60).
+1683296745: Client Telegraf-Consumer-Ga5Tx disconnected.
+1683296745: Client Telegraf-Consumer-29QHp closed its connection.
+1683296745: Client Telegraf-Consumer-vO9j4 closed its connection.
+1683296745: Client Telegraf-Consumer-wxAlD closed its connection.
+1683296745: Client Telegraf-Consumer-qOWA3 closed its connection.
+1683296745: Client Telegraf-Consumer-1Nhuw closed its connection.
+1683296745: Client Telegraf-Consumer-jyDMd closed its connection.
+1683296745: Client Telegraf-Consumer-GU3pl closed its connection.
+1683296745: Client Telegraf-Consumer-daWlN closed its connection.
+1683296750: New connection from 172.24.0.4:46298 on port 1883.
+1683296750: New client connected from 172.24.0.4:46298 as Telegraf-Consumer-9nWO5 (p2, c1, k60).
+1683296755: Client python-mqtt-522 closed its connection.
+1683296776: New connection from 172.24.0.1:39602 on port 1883.
+1683296776: New client connected from 172.24.0.1:39602 as python-mqtt-742 (p2, c1, k60).
+1683296804: Client python-mqtt-742 closed its connection.
+1683296851: New connection from 172.24.0.1:33100 on port 1883.
+1683296851: New client connected from 172.24.0.1:33100 as python-mqtt-996 (p2, c1, k60).
+1683296862: Client python-mqtt-996 closed its connection.
+1683296907: Client Telegraf-Consumer-9nWO5 disconnected.
+1683296907: mosquitto version 2.0.15 terminating
+1683296907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683300247: mosquitto version 2.0.15 starting
+1683300247: Config loaded from /mosquitto/config/mosquitto.conf.
+1683300247: Opening ipv4 listen socket on port 1883.
+1683300247: Opening ipv6 listen socket on port 1883.
+1683300247: mosquitto version 2.0.15 running
+1683300250: New connection from 172.25.0.4:44340 on port 1883.
+1683300250: New client connected from 172.25.0.4:44340 as Telegraf-Consumer-jsDh7 (p2, c1, k60).
+1683300376: New connection from 172.25.0.4:46390 on port 1883.
+1683300376: New client connected from 172.25.0.4:46390 as Telegraf-Consumer-apGUo (p2, c1, k60).
+1683300376: New connection from 172.25.0.4:46392 on port 1883.
+1683300376: New client connected from 172.25.0.4:46392 as Telegraf-Consumer-YdT2r (p2, c1, k60).
+1683300570: New connection from 172.25.0.1:33632 on port 1883.
+1683300570: New client connected from 172.25.0.1:33632 as python-mqtt-715 (p2, c1, k60).
+1683300573: Client python-mqtt-715 closed its connection.
+1683300655: New connection from 172.25.0.4:36488 on port 1883.
+1683300655: New client connected from 172.25.0.4:36488 as Telegraf-Consumer-1l24U (p2, c1, k60).
+1683300655: New connection from 172.25.0.4:36504 on port 1883.
+1683300655: New client connected from 172.25.0.4:36504 as Telegraf-Consumer-yFony (p2, c1, k60).
+1683300658: New connection from 172.25.0.1:52196 on port 1883.
+1683300658: New client connected from 172.25.0.1:52196 as python-mqtt-22 (p2, c1, k60).
+1683300671: Client python-mqtt-22 closed its connection.
+1683300727: New connection from 172.25.0.4:60774 on port 1883.
+1683300727: New client connected from 172.25.0.4:60774 as Telegraf-Consumer-9bU4Q (p2, c1, k60).
+1683300727: New connection from 172.25.0.4:60782 on port 1883.
+1683300727: New client connected from 172.25.0.4:60782 as Telegraf-Consumer-P6NQu (p2, c1, k60).
+1683300729: New connection from 172.25.0.1:50822 on port 1883.
+1683300729: New client connected from 172.25.0.1:50822 as python-mqtt-530 (p2, c1, k60).
+1683300767: Client python-mqtt-530 closed its connection.
+1683300794: New connection from 172.25.0.1:58278 on port 1883.
+1683300794: New client connected from 172.25.0.1:58278 as python-mqtt-74 (p2, c1, k60).
+1683300807: Client python-mqtt-74 closed its connection.
+1683302048: Saving in-memory database to /mosquitto/data//mosquitto.db.
